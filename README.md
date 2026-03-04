@@ -12,3 +12,7 @@ This repository serves as a timestamped origin reference for the framework.
 
 Full document:
 [https://open.substack.com/pub/neuralplayground/p/op-gap-official-origin-document-2026] 
+
+Erik Michálek (2026)
+OP Gap (Operator Gap) – behavioral response interval framework
+Hidden Self Project
